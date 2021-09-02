@@ -3,8 +3,8 @@ var dinosaur = {
   name: "Rexy",
   weightinLbs: 5000,
   ageInYears: 3.5,
-  isScary = true,
-  hasShortArms = true,
-  dinoFeatures = ["Yellow eyes", "Green scales", "Sharp nails"],
-  dinoDiet = ["Meat", "Fish", "Other dinos"],
+  isScary: true,
+  hasShortArms:true,
+  dinoFeatures:["Yellow eyes", "Green scales", "Sharp nails"],
+  dinoDiet:["Meat", "Fish", "Other dinos"],
 }
